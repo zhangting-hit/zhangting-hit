@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;计算机硕士在读，热爱编程和读书。</p>
 
 </td></tr>
