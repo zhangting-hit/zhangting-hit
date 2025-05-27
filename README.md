@@ -1,7 +1,6 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious)
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious&font_size=30" alt="Typing SVG" />
 
   <!-- profile logo 个人资料徽标 -->
   <div>
