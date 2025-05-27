@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stay;Curious)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stay+Curious)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangting-hit&left_color=green&right_color=red)
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhangting-hit)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhangting-hit)
 
