@@ -40,18 +40,10 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
-  
-<tr><td>
-
 ### 🤺 About Me
 
 <p>&emsp;&emsp;计算机硕士在读，热爱编程和读书。</p>
 
-</td></tr>
-
-
-</table>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhangting-hit)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhangting-hit)
