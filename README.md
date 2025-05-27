@@ -24,7 +24,6 @@
 </div>
 
 ## Hello 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Stay+Curious)
 <!--
 **zhangting-hit/zhangting-hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,8 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhangting-hit)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhangting-hit)
